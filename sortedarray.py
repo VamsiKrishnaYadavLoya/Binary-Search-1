@@ -1,5 +1,6 @@
 # Time Complexity: O(log N)
-# Space Complexity : o(1)
+# Because at everu step search space becomes half (Like binary search)
+# Space Complexity : O(1)
 # Did this code successfully run on Leetcode: Yes
 # Any problem you faced while coding this: No
 
